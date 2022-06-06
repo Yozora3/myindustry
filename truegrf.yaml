@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f13cb173
 license: CC0-1.0
+name: myindustry
 type: industry
+url: https://github.com/Yozora3/myindustry
 version: 6
